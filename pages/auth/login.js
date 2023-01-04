@@ -1,4 +1,4 @@
-import {FcGoogle} from "react-icons/Fc";  //importing icons file
+import {FcGoogle} from "react-icons/fc";  //importing icons file
 import {auth} from "/utils/firebase"  // importing authenticate user from firebase
 import { signInWithPopup,GoogleAuthProvider, signInWithRedirect } from "firebase/auth";  // to make user login with popup window
 import { useRouter } from "next/router";  // using this to redirect user to desired page
