@@ -15,6 +15,6 @@ Just make an acccount on creative minds site and get started posting your though
 
 ## Deployed on Vercel
 
-Check the full website at https:/www.creativeminds.vercel.app
+Check the full website at https://www.creativeminds.vercel.app
 
 ## Thank you 🙌
