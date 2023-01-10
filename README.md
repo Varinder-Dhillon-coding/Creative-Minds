@@ -11,7 +11,7 @@ This website has been made using :-
 
 ## Simple idea
 
-Just make an acccound on creative minds site and get started posting your thoughts.
+Just make an acccount on creative minds site and get started posting your thoughts.
 
 ## Deployed on Vercel
 
