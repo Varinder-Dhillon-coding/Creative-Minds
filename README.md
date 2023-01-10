@@ -1,7 +1,8 @@
 
 ## Website made for posting your thoughts
 
-```This website has been made using :-
+```
+This website has been made using :-
   Next.js
   HTML
   CSS
