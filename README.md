@@ -4,9 +4,8 @@
 ```
 This website has been made using :-
   Next.js
-  HTML
   CSS
-  Firebase for backend
+  Firebase 
 ```
 
 ## Simple idea
